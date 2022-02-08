@@ -1,6 +1,8 @@
 # :book: Exercício de C# :book:
 ## Exercício 1
 ## Crie um algoritmo que retorne se um número é par ou ímpar.
+
+```
 namespace exercicio01
 {
     class Program
@@ -25,3 +27,4 @@ namespace exercicio01
         }
     }
 }
+```
