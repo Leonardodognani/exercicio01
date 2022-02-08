@@ -21,7 +21,6 @@ namespace exercicio01
                 Console.WriteLine($"O número {numeroDigitado} é um número ímpar.");
             }
 
-
         }
     }
 }
